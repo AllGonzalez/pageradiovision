@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+}
+html,body{
+    background-image: url("assets/azul.jpg");
+    background-size: cover;
+    
+}
+.card-body{
+    background: url("assets/abstractoAzul.jpg");
+}
+
+.navbar-bottom {
+    min-height: 300px;
+    margin-top: 100px;
+    background-color: #28364f;
+    padding-top: 35px;
+    color:#FFFFFF;
+    }
