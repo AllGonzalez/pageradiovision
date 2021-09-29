@@ -1,0 +1,1 @@
+print("Hola mundo") #Extracción de código
